@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81adb956-23fa-42f1-b061-ac2e7eaa1b92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698823409600</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kjarty jsou odpad">
+      <created>1698823706604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698823706604</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -97,6 +106,7 @@
     <MESSAGE value="nevim prostre jsem v pulce(snad) tak davam commit aby jich nebylo malo, nenavidim github&#10;&#10;&#10;&#10;flashdisk&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
     <MESSAGE value="neco jsem pridal ale asi cekly blbe kdsajfhjsdahjfhsdafvm,sdvyds" />
     <MESSAGE value="asi karty hotovjsdhfhasdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="asi karty hotovjsdhfhasdf" />
+    <MESSAGE value="kjarty jsou odpad" />
+    <option name="LAST_COMMIT_MESSAGE" value="kjarty jsou odpad" />
   </component>
 </project>

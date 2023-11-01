@@ -56,8 +56,9 @@ img {
 .cont{
     display: grid;
     text-allign: center;
-    grid-template-rows: 50px
-    grid-template-collums: repeat(8, 150px);
+    gap:100px
+    grid-template-rows: repeat(8, 150px);
+    grid-template-collums: repeat(auto-fit, minmax(100px, 1fr));
 }
 .karta{
     border-color: black;
