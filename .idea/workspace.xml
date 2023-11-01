@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81adb956-23fa-42f1-b061-ac2e7eaa1b92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698824051967</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=":crying-face:">
+      <created>1698824981662</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698824981662</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,6 +119,7 @@
     <MESSAGE value="asi karty hotovjsdhfhasdf" />
     <MESSAGE value="kjarty jsou odpad" />
     <MESSAGE value="kjarty jsou odpadgsdfsdfvsadfjkvbjksa" />
-    <option name="LAST_COMMIT_MESSAGE" value="kjarty jsou odpadgsdfsdfvsadfjkvbjksa" />
+    <MESSAGE value=":crying-face:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":crying-face:" />
   </component>
 </project>
