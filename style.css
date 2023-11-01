@@ -12,23 +12,23 @@ img {
 }
 
 .navigation-menu {
-background-color: #333;
-color: #fff;
-padding: 10px;
-display: flex;
-justify-content: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
 }
 
 .menu-block {
-margin: 0 10px;
-width: 100px;
-text-align: center;
-display: inline-block;
+    margin: 0 10px;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
 }
 
 .menu-block a {
-text-decoration: none;
-color: #fff;
+    text-decoration: none;
+    color: #fff;
 }
 .product-cards {
     display: flex;
@@ -52,4 +52,47 @@ color: #fff;
 .contact-item {
     border: 1px solid #ccc;
     padding: 10px;
+}
+.cont{
+    display: grid;
+    text-allign: center;
+    gap:50px;
+    grid-template-rows: repeat(1, 150px);
+    grid-template-collums: repeat(auto-fit, minmax(100px, 1fr));
+}
+.k1{
+    border-color: black;
+    border: 2px;
+}
+.k2{
+    border-color: black;
+    border: 2px;
+}
+.k3{
+    border-color: black;
+    border: 2px;
+}
+.k4{
+    border-color: black;
+    border: 2px;
+}
+.k5{
+    border-color: black;
+    border: 2px;
+}
+.k6{
+    border-color: black;
+    border: 2px;
+}
+.k7{
+    border-color: black;
+    border: 2px;
+}
+.k8{
+    border-color: black;
+    border: 2px;
+}
+.k9{
+    border-color: black;
+    border: 2px;
 }

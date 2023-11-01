@@ -4,7 +4,7 @@
     <list default="true" id="81adb956-23fa-42f1-b061-ac2e7eaa1b92" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698821828178</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="neco jsem pridal ale asi cekly blbe kdsajfhjsdahjfhsdafvm,sdvyds">
+      <created>1698822342539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698822342539</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="prvni komit, prote jen prazdnej layout lol" />
     <MESSAGE value="nevim prostre jsem v pulce(snad) tak davam commit aby jich nebylo malo, nenavidim github&#10;&#10;&#10;&#10;flashdisk&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="nevim prostre jsem v pulce(snad) tak davam commit aby jich nebylo malo, nenavidim github&#10;&#10;&#10;&#10;flashdisk&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;" />
+    <MESSAGE value="neco jsem pridal ale asi cekly blbe kdsajfhjsdahjfhsdafvm,sdvyds" />
+    <option name="LAST_COMMIT_MESSAGE" value="neco jsem pridal ale asi cekly blbe kdsajfhjsdahjfhsdafvm,sdvyds" />
   </component>
 </project>
