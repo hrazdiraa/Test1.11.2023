@@ -56,43 +56,11 @@ img {
 .cont{
     display: grid;
     text-allign: center;
-    gap:50px;
-    grid-template-rows: repeat(1, 150px);
-    grid-template-collums: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: 50px
+    grid-template-collums: repeat(8, 150px);
 }
-.k1{
+.karta{
     border-color: black;
     border: 2px;
-}
-.k2{
-    border-color: black;
-    border: 2px;
-}
-.k3{
-    border-color: black;
-    border: 2px;
-}
-.k4{
-    border-color: black;
-    border: 2px;
-}
-.k5{
-    border-color: black;
-    border: 2px;
-}
-.k6{
-    border-color: black;
-    border: 2px;
-}
-.k7{
-    border-color: black;
-    border: 2px;
-}
-.k8{
-    border-color: black;
-    border: 2px;
-}
-.k9{
-    border-color: black;
-    border: 2px;
+    background-color: red;
 }
