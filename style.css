@@ -10,6 +10,10 @@ img {
     max-width: 100%;
     height: auto;
 }
+.kontakt{
+background-color: #ffeeee;
+font-family: Arial, sans-serif;
+}
 
 .navigation-menu {
     background-color: #333;
@@ -55,13 +59,17 @@ img {
 }
 .cont{
     display: grid;
-    text-allign: center;
-    gap:100px
-    grid-template-rows: repeat(8, 150px);
-    grid-template-collums: repeat(auto-fit, minmax(100px, 1fr));
+    text-align: center;
+    gap:50px;
+    grid-template-rows: repeat(8, 30px);
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
 .karta{
-    border-color: black;
-    border: 2px;
     background-color: red;
 }
+.kont{
+    display: grid;
+    text-align: center;
+    gap:50px;
+    grid-template-rows: repeat(8, 30px);
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
