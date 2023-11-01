@@ -10,11 +10,22 @@ img {
     max-width: 100%;
     height: auto;
 }
+
 .kontakt{
 background-color: #ffeeee;
 font-family: Arial, sans-serif;
 }
 
+.index{
+background-color: #955F20;
+font-family: Arial, sans-serif;
+}
+
+.shop{
+background-color: #8B8C7A;
+font-family: Arial, sans-serif;
+
+}
 .navigation-menu {
     background-color: #333;
     color: #fff;
